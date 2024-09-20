@@ -1,0 +1,29 @@
+.footer-head{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.footer-btn{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-ind{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    font-size: 16px;
+    width: 105px;
+    border: 1px solid var(--filter-text);
+    margin-right: 20px;
+    border-radius: 6px;
+    padding: 2px;
+}
+.fotter-ind-img{
+    height: 18px;
+    width: 26px;
+}
+ span{
+    margin: 0px 6px;
+   
+}

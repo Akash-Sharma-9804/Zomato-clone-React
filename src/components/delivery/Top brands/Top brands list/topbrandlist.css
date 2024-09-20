@@ -1,0 +1,39 @@
+.topbrand-item-cover{
+    /* margin-left: 20px; */
+    height: 150px;
+    width: 150px;
+    background-color: var(--primary-bg);
+    box-shadow: var(--collection-shaddow);
+    border-radius: 8px;
+}
+.topbrand-item-img{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}
+.topbrand-item-title{
+    font-size: 16px;
+    font-weight: 6  00;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    /* margin-top: 6px; */
+    /* text-align: center; */
+    line-height: 3.2rem;
+    text-align: center;
+    padding-right: 1.6rem;
+    margin-top: 0.6rem ;
+    /* text-align: center; */
+}
+.topbrand-item-time{
+    font-size: 14px;
+    font-weight: 500;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    /* margin-top: 2px; */
+    /* text-align: center; */
+    /* line-height: 3.2rem; */
+    text-align: center;
+    padding-right: 1.6rem;
+    /* margin: 0.6rem 0px 0px; */
+}
